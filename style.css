@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+.container{
+    max-width: 1215px;
+    margin: 0 auto;
+}
+
+.info__text{
+    font-size: 26px;
+    line-height: 38px;
+    text-align: center;
+    color: #5F4D5D;
+max-width: 747px;
+margin: 130px auto 30px;
+}
+
+.info__cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+background: #CEB3CB;
+}
+
+.card__content{
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 25px;}
+
+.card__title{
+  font-size: 25px;
+}
+.card__link{
+    font-size: 17px;
+}
+.card:hover{
+    box-shadow: 5px 5px 0px 0px  #B08EAD, 10px 10px 0px 0px #bda0ba, 15px 15px 0px 0px #cbb1c8, 20px 20px 0px 0px #ddc6da, 25px 25px 0px 0px #f1dfef, 5px 5px 15px 5px rgba(0,0,0,0); */
+}
+
+/* box-shadow: 5px 5px 0px 0px  #B08EAD, 10px 10px 0px 0px #bda0ba, 15px 15px 0px 0px #cbb1c8, 20px 20px 0px 0px #ddc6da, 25px 25px 0px 0px #f1dfef, 5px 5px 15px 5px rgba(0,0,0,0); */
